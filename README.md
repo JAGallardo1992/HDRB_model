@@ -6,3 +6,5 @@ For more details about the model, the reader can refer to:
 Gallardo, J. A., de la Llera, J. C., Restrepo, J. I., & Chen, M. (2023). A numerical model for non-linear shear behavior of high damping rubber bearings. _Engineering Structures_, 289, 116234. https://doi.org/10.1016/j.engstruct.2023.116234
 
 Comments, suggestions, and recommended amendments can be sent to jogallardo@uc.cl 
+
+Note: The OpenSees code of the _uniaxialMaterial_ and the implementation of the multi-axial model will be uploaded soon.
