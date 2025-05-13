@@ -34,7 +34,7 @@ This repository includes examples that replicate the simulations presented in th
 
 **Contact:**
 For support with the models, assistance with compiling the OpenSees source code (which includes these custom HDRB implementations), or to provide comments, suggestions, and recommendations, please contact:
-* José Gallardo: jogallardo@uc.cl(mailto:jogallardo@uc.cl)
+* José Gallardo: jogallardo@uc.cl
 
 Feedback and suggestions for improving these models and their implementations are welcome.
 
